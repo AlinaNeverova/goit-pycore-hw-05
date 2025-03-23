@@ -4,9 +4,13 @@ Functional programming and built-in Python modules
 This repository contains solutions for homework assignments related to functional programming concepts and built-in Python modules. The tasks focus on:
 
 ✅ Recursive algorithms and memory optimization
+
 ✅ Using functions as arguments
+
 ✅ Working with tuples to return multiple values
+
 ✅ Implementing generators for efficient data processing
+
 ✅ Error handling using decorators
 
 Homework Tasks
